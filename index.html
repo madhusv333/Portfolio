@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -23,73 +24,71 @@
         </div>
     </nav>
 
-    <!-- Main Content -->
-    <div class="container">
-        <section id="about">    <section id="showcase">
+    <!-- Showcase Section -->
+    <section id="showcase" class="text-center text-light bg-dark py-5">
         <div class="container">
-            <h1>Welcome to My Portfolio</h1>
-            <p>Check out my latest projects below.</p>
+            <h1 class="display-4 animate__animated animate__fadeInDown">Welcome to My Portfolio</h1>
+            <p class="lead animate__animated animate__fadeInUp">Check out my latest projects below.</p>
+            <a href="resume.pdf" download="YourName_Resume.pdf" class="btn btn-primary mt-3 animate__animated animate__fadeInUp">Download Resume</a>
         </div>
     </section>
 
-<a href="resume.pdf" download="YourName_Resume.pdf" class="download-btn">Download Resume</a>
-        </section>
-
-    <section id="about">
+    <!-- About Section -->
+    <section id="about" class="py-5">
         <div class="container">
-            <h2>About Me</h2>
-            <p>This is the about section where you can introduce yourself.</p>
+            <h2 class="text-center animate__animated animate__fadeInLeft">About Me</h2>
+            <p class="text-center animate__animated animate__fadeInRight">This is the about section where you can introduce yourself.</p>
         </div>
     </section>
-    <section id="projects" class="container">
-        <h2>My Projects</h2>
-        <div class="project">
-            <h3>Project Title 1</h3>
-            <img src="project1-image.jpg" alt="Project 1 Image">
-            <p>This is a brief description of Project 1. Highlight the main features, tools used, and any notable outcomes or results.</p>
-            <a href="https://github.com/username/project1" target="_blank">View Project</a>
-        </div>
-        <div class="project">
-            <h3>Project Title 2</h3>
-            <img src="project2-image.jpg" alt="Project 2 Image">
-            <p>This is a brief description of Project 2. Highlight the main features, tools used, and any notable outcomes or results.</p>
-            <a href="https://github.com/username/project2" target="_blank">View Project</a>
-        </div>
-        <!-- Add more projects as needed -->
-    </section>
-     
-        <section id="projects">
-            <h1>Projects</h1>
+
+    <!-- Projects Section -->
+    <section id="projects" class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center animate__animated animate__fadeInLeft">My Projects</h2>
             <div class="row">
-                <!-- Project Cards -->
-                <div class="col-md-4">
-                    <div class="card">
+                <div class="col-md-4 mb-4">
+                    <div class="card animate__animated animate__fadeInUp">
                         <img src="images/project1.jpg" class="card-img-top" alt="Project 1">
                         <div class="card-body">
-                            <h5 class="card-title">Project 1</h5>
-                            <p class="card-text">Description of project 1...</p>
+                            <h5 class="card-title">Project Title 1</h5>
+                            <p class="card-text">This is a brief description of Project 1. Highlight the main features, tools used, and any notable outcomes or results.</p>
+                            <a href="https://github.com/username/project1" target="_blank" class="btn btn-primary">View Project</a>
                         </div>
                     </div>
                 </div>
-                <!-- Repeat for other projects -->
+                <div class="col-md-4 mb-4">
+                    <div class="card animate__animated animate__fadeInUp">
+                        <img src="images/project2.jpg" class="card-img-top" alt="Project 2">
+                        <div class="card-body">
+                            <h5 class="card-title">Project Title 2</h5>
+                            <p class="card-text">This is a brief description of Project 2. Highlight the main features, tools used, and any notable outcomes or results.</p>
+                            <a href="https://github.com/username/project2" target="_blank" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more projects as needed -->
             </div>
-        </section>
-
-       </div>
-
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script src="js/script.js"></script>    <section id="contact">
-        <div class="container">
-            <h2>Contact Me</h2>
-            <p>You can reach me at <a href="your-email@example.com">svmadhu29@gmail.com</a></p>
         </div>
     </section>
-    <footer>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-5">
+        <div class="container">
+            <h2 class="text-center animate__animated animate__fadeInLeft">Contact Me</h2>
+            <p class="text-center animate__animated animate__fadeInRight">You can reach me at <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light text-center py-3">
         <div class="container">
             <p>&copy; 2024 Madhu S V</p>
         </div>
     </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
 </body>
 </html>
