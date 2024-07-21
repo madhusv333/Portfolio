@@ -139,3 +139,30 @@ section {
 .download-btn:hover {
     background-color: #0056b3;
 }
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#showcase {
+    background: url('images/showcase.jpg') no-repeat center center/cover;
+    color: white;
+    height: 100vh;
+}
+
+#about, #projects, #contact {
+    padding: 50px 0;
+}
+
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
