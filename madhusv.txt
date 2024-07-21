@@ -1,0 +1,52 @@
+[Your Name]
+  [Your Email] [Your Phone Number] | [LinkedIn Profile] | [GitHub Profile]
+
+PROFESSIONAL SUMMARY
+Dedicated and detail-oriented Software Engineer with over [X] years of experience in designing, developing, and maintaining software solutions. Proficient in various programming languages and development frameworks, with a strong focus on problem-solving and continuous improvement.
+
+TECHNICAL SKILLS
+- Programming Languages: Java, Python, C++, JavaScript
+- Web Technologies: HTML, CSS, Angular, React
+- Database Management: SQL, MongoDB, PostgreSQL
+- Tools & Technologies: Git, Docker, Kubernetes, Jenkins
+- Cloud Services: AWS, Azure, Google Cloud
+- Development Methodologies: Agile, Scrum
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | [Company Name]  
+[Location] | [Month/Year] – Present  
+- Developed and maintained scalable web applications using Java and Angular.
+- Led a team of [X] developers in implementing new features and resolving critical bugs.
+- Collaborated with cross-functional teams to design and optimize database structures using PostgreSQL.
+- Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by [X]%.
+
+Junior Software Engineer | [Company Name]
+[Location] | [Month/Year] – [Month/Year]  
+- Assisted in the development of micro services-based applications using Python and Flask.
+- Conducted code reviews and provided mentorship to junior developers.
+- Participated in daily stand-ups and sprint planning meetings as part of an Agile team.
+- Improved application performance by optimizing SQL queries and database indexes.
+
+EDUCATION
+Bachelor of Science in Computer Science  
+[University Name], [City, State] | [Month/Year] – [Month/Year]
+
+Class 12
+[University Name], [City, State] | [Month/Year] – [Month/Year]
+
+Class 10 
+[University Name], [City, State] | [Month/Year] – [Month/Year]
+
+PROJECTS
+[Project Name]                                                                                                       [Month/Year] – [Month/Year]
+- Description: A brief overview of the project, highlighting your role and the technologies used.
+- Key Achievements: Specific accomplishments, such as increased performance, reduced costs, or user growth.
+
+[Project Name]                                                                                                            [Month/Year] – [Month/Year]                     
+- Description: A brief overview of the project, highlighting your role and the technologies used.
+- Key Achievements: Specific accomplishments, such as increased performance, reduced costs, or user growth.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Oracle Certified Professional, Java SE Programmer
+- Certified Scrum Master (CSM).
